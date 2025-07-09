@@ -11,4 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/nmin11/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nmin11/LeetCode/tree/master/0344-reverse-string) |
+| [0974-reorder-data-in-log-files](https://github.com/nmin11/LeetCode/tree/master/0974-reorder-data-in-log-files) |
+## Array
+|  |
+| ------- |
+| [0974-reorder-data-in-log-files](https://github.com/nmin11/LeetCode/tree/master/0974-reorder-data-in-log-files) |
+## Sorting
+|  |
+| ------- |
+| [0974-reorder-data-in-log-files](https://github.com/nmin11/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 <!---LeetCode Topics End-->
