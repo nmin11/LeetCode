@@ -15,9 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nmin11/LeetCode/tree/master/0001-two-sum) |
 | [0974-reorder-data-in-log-files](https://github.com/nmin11/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 ## Sorting
 |  |
 | ------- |
 | [0974-reorder-data-in-log-files](https://github.com/nmin11/LeetCode/tree/master/0974-reorder-data-in-log-files) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nmin11/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
