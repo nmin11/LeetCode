@@ -3,13 +3,12 @@ class Solution {
         Map<Integer, Integer> pairIdx = new HashMap<>();
 
         for (int i = 0; i < nums.length; i++) {
-            int complement = target - nums[i];
-            if (pairIdx.containsKey(complement)) {
-                return new int[] { i, pairIdx.get(complement) };
+            if (pairIdx.containsKey(target - nums[i])) {
+                return new int[]{i, pairIdx.get(target - nums[i])};
             }
             pairIdx.put(nums[i], i);
         }
 
-        return new int[] {};
+        return new int[]{};
     }
 }
