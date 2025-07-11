@@ -3,9 +3,8 @@ class Solution {
         val pairIdx = mutableMapOf<Int, Int>()
 
         for ((i, num) in nums.withIndex()) {
-            val complement = target - num
-            if (complement in pairIdx) {
-                return intArrayOf(i, pairIdx[complement]!!)
+            if (pairIdx.containsKey(target - num)) {
+                return intArrayOf(pairIdx[target - num] ?: 0, i)
             }
             pairIdx[num] = i
         }
