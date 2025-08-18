@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/nmin11/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0837-most-common-word](https://github.com/nmin11/LeetCode/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/nmin11/LeetCode/tree/master/0974-reorder-data-in-log-files) |
+| [3811-reverse-degree-of-a-string](https://github.com/nmin11/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/nmin11/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Simulation
+|  |
+| ------- |
+| [3811-reverse-degree-of-a-string](https://github.com/nmin11/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
