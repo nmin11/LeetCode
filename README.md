@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nmin11/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/nmin11/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/nmin11/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/nmin11/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nmin11/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nmin11/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nmin11/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/nmin11/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/nmin11/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/nmin11/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/nmin11/LeetCode/tree/master/0049-group-anagrams) |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3811-reverse-degree-of-a-string](https://github.com/nmin11/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nmin11/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
