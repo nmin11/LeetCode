@@ -5,7 +5,6 @@ class Solution {
         StringBuilder sb = new StringBuilder(15);
 
         for (int i = 0; i < symbols.length; i++) {
-            int count = num / values[i];
             while (num >= values[i]) {
                 sb.append(symbols[i]);
                 num -= values[i];
