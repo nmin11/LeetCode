@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/nmin11/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nmin11/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/nmin11/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0812-rotate-string](https://github.com/nmin11/LeetCode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/nmin11/LeetCode/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/nmin11/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [3811-reverse-degree-of-a-string](https://github.com/nmin11/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/nmin11/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nmin11/LeetCode/tree/master/0013-roman-to-integer) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/nmin11/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
