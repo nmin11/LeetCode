@@ -18,10 +18,6 @@ class Solution {
             sMap.put(tChar, sCnt - 1);
         }
 
-        for (Map.Entry<Character, Integer> entry : sMap.entrySet()) {
-            if (entry.getValue() != 0) return false;
-        }
-
         return true;
     }
 }
