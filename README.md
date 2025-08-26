@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/nmin11/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/nmin11/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/nmin11/LeetCode/tree/master/0409-longest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/nmin11/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/nmin11/LeetCode/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/nmin11/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nmin11/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -113,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/nmin11/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/nmin11/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
