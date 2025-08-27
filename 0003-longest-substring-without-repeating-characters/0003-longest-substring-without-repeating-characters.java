@@ -4,11 +4,13 @@ class Solution {
         int left = 0, maxLen = 0;
 
         for (int right = 0; right < s.length(); right++) {
-            if (lastIdx.containsKey(s.charAt(right))) {
-                left = Math.max(left, lastIdx.get(s.charAt(right)) + 1);
+            char c = s.charAt(right);
+
+            if (lastIdx.containsKey(c)) {
+                left = Math.max(left, lastIdx.get(c) + 1);
             }
 
-            lastIdx.put(s.charAt(right), right);
+            lastIdx.put(c, right);
             maxLen = Math.max(maxLen, right - left + 1);
         }
 
