@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/nmin11/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/nmin11/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nmin11/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/nmin11/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/nmin11/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nmin11/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nmin11/LeetCode/tree/master/0344-reverse-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nmin11/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/nmin11/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/nmin11/LeetCode/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/nmin11/LeetCode/tree/master/0179-largest-number) |
 | [0837-most-common-word](https://github.com/nmin11/LeetCode/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/nmin11/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 ## Sorting
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nmin11/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/nmin11/LeetCode/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/nmin11/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/nmin11/LeetCode/tree/master/0242-valid-anagram) |
 | [0974-reorder-data-in-log-files](https://github.com/nmin11/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 ## Hash Table
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/nmin11/LeetCode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/nmin11/LeetCode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/nmin11/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
