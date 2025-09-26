@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/nmin11/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/nmin11/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/nmin11/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nmin11/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/nmin11/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nmin11/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nmin11/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nmin11/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nmin11/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
