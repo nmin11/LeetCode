@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nmin11/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/nmin11/LeetCode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/nmin11/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/nmin11/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/nmin11/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nmin11/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nmin11/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nmin11/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nmin11/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nmin11/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/nmin11/LeetCode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/nmin11/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/nmin11/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nmin11/LeetCode/tree/master/0242-valid-anagram) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nmin11/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/nmin11/LeetCode/tree/master/0148-sort-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nmin11/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/nmin11/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/nmin11/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/nmin11/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nmin11/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/nmin11/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nmin11/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -242,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/nmin11/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nmin11/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nmin11/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/nmin11/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
