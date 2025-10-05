@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nmin11/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nmin11/LeetCode/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/nmin11/LeetCode/tree/master/0561-array-partition) |
+| [0739-daily-temperatures](https://github.com/nmin11/LeetCode/tree/master/0739-daily-temperatures) |
 | [0837-most-common-word](https://github.com/nmin11/LeetCode/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/nmin11/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [2551-apply-operations-to-an-array](https://github.com/nmin11/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -150,11 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/nmin11/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/nmin11/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/nmin11/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/nmin11/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nmin11/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/nmin11/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/nmin11/LeetCode/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
