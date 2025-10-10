@@ -8,16 +8,19 @@ class Solution {
                 int sum = last + stack.peek();
                 stack.push(last);
                 stack.push(sum);
+                result += sum;
             } else if (op.equals("D")) {
-                stack.push(stack.peek() * 2);
+                int score = stack.peek() * 2;
+                stack.push(score);
+                result += score;
             } else if (op.equals("C")) {
-                stack.pop();
+                result -= stack.pop();
             } else {
-                stack.push(Integer.parseInt(op));
+                int num = Integer.parseInt(op);
+                stack.push(num);
+                result += num;
             }
         }
-
-        while (!stack.isEmpty()) result += stack.pop();
 
         return result;
     }
