@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nmin11/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nmin11/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/nmin11/LeetCode/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/nmin11/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/nmin11/LeetCode/tree/master/0739-daily-temperatures) |
 | [0837-most-common-word](https://github.com/nmin11/LeetCode/tree/master/0837-most-common-word) |
 | [0860-design-circular-queue](https://github.com/nmin11/LeetCode/tree/master/0860-design-circular-queue) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/nmin11/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/nmin11/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nmin11/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/nmin11/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/nmin11/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/nmin11/LeetCode/tree/master/0682-baseball-game) |
 | [2551-apply-operations-to-an-array](https://github.com/nmin11/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3811-reverse-degree-of-a-string](https://github.com/nmin11/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Trie
