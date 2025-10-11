@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/nmin11/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/nmin11/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/nmin11/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/nmin11/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nmin11/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/nmin11/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## String
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/nmin11/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/nmin11/LeetCode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/nmin11/LeetCode/tree/master/0837-most-common-word) |
+| [0874-backspace-string-compare](https://github.com/nmin11/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0974-reorder-data-in-log-files](https://github.com/nmin11/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nmin11/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3811-reverse-degree-of-a-string](https://github.com/nmin11/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/nmin11/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/nmin11/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/nmin11/LeetCode/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/nmin11/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/nmin11/LeetCode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/nmin11/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2551-apply-operations-to-an-array](https://github.com/nmin11/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3811-reverse-degree-of-a-string](https://github.com/nmin11/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Trie
