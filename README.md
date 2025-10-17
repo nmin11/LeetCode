@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/nmin11/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/nmin11/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/nmin11/LeetCode/tree/master/0886-score-of-parentheses) |
+| [0937-online-stock-span](https://github.com/nmin11/LeetCode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nmin11/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nmin11/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/nmin11/LeetCode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/nmin11/LeetCode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -299,4 +301,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/nmin11/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nmin11/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/nmin11/LeetCode/tree/master/0860-design-circular-queue) |
+| [0937-online-stock-span](https://github.com/nmin11/LeetCode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/nmin11/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
