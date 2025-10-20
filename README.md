@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nmin11/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/nmin11/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/nmin11/LeetCode/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/nmin11/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Greedy
 |  |
 | ------- |
@@ -309,10 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nmin11/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/nmin11/LeetCode/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/nmin11/LeetCode/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/nmin11/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/nmin11/LeetCode/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/nmin11/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Matrix
 |  |
 | ------- |
