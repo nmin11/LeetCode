@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/nmin11/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/nmin11/LeetCode/tree/master/0860-design-circular-queue) |
 | [0974-reorder-data-in-log-files](https://github.com/nmin11/LeetCode/tree/master/0974-reorder-data-in-log-files) |
+| [1014-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2551-apply-operations-to-an-array](https://github.com/nmin11/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nmin11/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nmin11/LeetCode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/nmin11/LeetCode/tree/master/0561-array-partition) |
 | [0974-reorder-data-in-log-files](https://github.com/nmin11/LeetCode/tree/master/0974-reorder-data-in-log-files) |
+| [1014-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/nmin11/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/nmin11/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nmin11/LeetCode/tree/master/0268-missing-number) |
+| [1014-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## String Matching
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/nmin11/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/nmin11/LeetCode/tree/master/0148-sort-list) |
+| [1014-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -324,4 +328,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/nmin11/LeetCode/tree/master/0085-maximal-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
