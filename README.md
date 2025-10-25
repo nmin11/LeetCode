@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nmin11/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nmin11/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nmin11/LeetCode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/nmin11/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/nmin11/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nmin11/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/nmin11/LeetCode/tree/master/0561-array-partition) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nmin11/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nmin11/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nmin11/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/nmin11/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/nmin11/LeetCode/tree/master/0561-array-partition) |
 | [0974-reorder-data-in-log-files](https://github.com/nmin11/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nmin11/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nmin11/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nmin11/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/nmin11/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/nmin11/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/nmin11/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nmin11/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nmin11/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/nmin11/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/nmin11/LeetCode/tree/master/0837-most-common-word) |
 ## Dynamic Programming
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/nmin11/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/nmin11/LeetCode/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/nmin11/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
@@ -341,13 +346,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nmin11/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nmin11/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Function
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/nmin11/LeetCode/tree/master/0817-design-hashmap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nmin11/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
