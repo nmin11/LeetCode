@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nmin11/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/nmin11/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/nmin11/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/nmin11/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/nmin11/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nmin11/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nmin11/LeetCode/tree/master/0268-missing-number) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/nmin11/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/nmin11/LeetCode/tree/master/0200-number-of-islands) |
 ## Geometry
 |  |
 | ------- |
@@ -361,4 +363,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nmin11/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nmin11/LeetCode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nmin11/LeetCode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nmin11/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
