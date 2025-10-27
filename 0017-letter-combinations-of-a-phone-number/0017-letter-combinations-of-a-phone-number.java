@@ -18,7 +18,6 @@ class Solution {
 
     public List<String> letterCombinations(String digits) {
         List<String> result = new ArrayList<>();
-        if (digits.length() == 0) return result;
 
         Map<Character, List<Character>> dic = new HashMap<>();
         dic.put('0', List.of());
