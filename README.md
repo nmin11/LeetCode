@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nmin11/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/nmin11/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/nmin11/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/nmin11/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/nmin11/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nmin11/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nmin11/LeetCode/tree/master/0055-jump-game) |
@@ -381,4 +382,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nmin11/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/nmin11/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
