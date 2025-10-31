@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nmin11/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/nmin11/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nmin11/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/nmin11/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nmin11/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nmin11/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/nmin11/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nmin11/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/nmin11/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -386,4 +388,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nmin11/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/nmin11/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/nmin11/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/nmin11/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
