@@ -372,12 +372,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nmin11/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/nmin11/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nmin11/LeetCode/tree/master/0207-course-schedule) |
 | [0332-reconstruct-itinerary](https://github.com/nmin11/LeetCode/tree/master/0332-reconstruct-itinerary) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nmin11/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/nmin11/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nmin11/LeetCode/tree/master/0207-course-schedule) |
 ## Union Find
@@ -405,4 +407,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nmin11/LeetCode/tree/master/0207-course-schedule) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nmin11/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nmin11/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
