@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/nmin11/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/nmin11/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nmin11/LeetCode/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/nmin11/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/nmin11/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0744-network-delay-time](https://github.com/nmin11/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nmin11/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/nmin11/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/nmin11/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nmin11/LeetCode/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/nmin11/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0744-network-delay-time](https://github.com/nmin11/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nmin11/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Union Find
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/nmin11/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nmin11/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nmin11/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/nmin11/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/nmin11/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nmin11/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nmin11/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/nmin11/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Shortest Path
 |  |
 | ------- |
