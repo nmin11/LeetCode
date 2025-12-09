@@ -43,7 +43,7 @@ class Solution {
         }
 
         for (int[] edge : edges) {
-            if (candidate1 != null && edge == candidate2) continue;
+            if (candidate2 != null && edge == candidate2) continue;
 
             int u = edge[0];
             int v = edge[1];
