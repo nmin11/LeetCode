@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/nmin11/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/nmin11/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nmin11/LeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/nmin11/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0744-network-delay-time](https://github.com/nmin11/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nmin11/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nmin11/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/nmin11/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nmin11/LeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/nmin11/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0744-network-delay-time](https://github.com/nmin11/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nmin11/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Union Find
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nmin11/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nmin11/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nmin11/LeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/nmin11/LeetCode/tree/master/0685-redundant-connection-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/nmin11/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/nmin11/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nmin11/LeetCode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/nmin11/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0744-network-delay-time](https://github.com/nmin11/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nmin11/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Eulerian Circuit
