@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/nmin11/LeetCode/tree/master/0860-design-circular-queue) |
 | [0974-reorder-data-in-log-files](https://github.com/nmin11/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1631-path-with-minimum-effort](https://github.com/nmin11/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2551-apply-operations-to-an-array](https://github.com/nmin11/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nmin11/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nmin11/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/nmin11/LeetCode/tree/master/0268-missing-number) |
+| [1631-path-with-minimum-effort](https://github.com/nmin11/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/nmin11/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/nmin11/LeetCode/tree/master/0200-number-of-islands) |
+| [1631-path-with-minimum-effort](https://github.com/nmin11/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Geometry
 |  |
 | ------- |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/nmin11/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nmin11/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1631-path-with-minimum-effort](https://github.com/nmin11/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/nmin11/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0744-network-delay-time](https://github.com/nmin11/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nmin11/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/nmin11/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nmin11/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -411,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/nmin11/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0744-network-delay-time](https://github.com/nmin11/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nmin11/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/nmin11/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nmin11/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -419,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/nmin11/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nmin11/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/nmin11/LeetCode/tree/master/0685-redundant-connection-ii) |
+| [1631-path-with-minimum-effort](https://github.com/nmin11/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nmin11/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
