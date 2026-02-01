@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/nmin11/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nmin11/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/nmin11/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/nmin11/LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/nmin11/LeetCode/tree/master/0704-binary-search) |
 | [1631-path-with-minimum-effort](https://github.com/nmin11/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
@@ -547,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nmin11/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nmin11/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/nmin11/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
