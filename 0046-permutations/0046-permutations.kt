@@ -1,25 +1,31 @@
 class Solution {
     fun permute(nums: IntArray): List<List<Int>> {
-        val results: MutableList<List<Int>> = mutableListOf()
+        val results = mutableListOf<List<Int>>()
+        backtrack(results, mutableListOf(), nums, BooleanArray(nums.size))
+        return results
+    }
 
-        fun dfs(prevElements: MutableList<Int>, elements: List<Int>) {
-            if (elements.isEmpty()) {
-                results.add(prevElements.stream().collect(Collectors.toList()))
-            }
-
-            for (e in elements) {
-                val nextElements: MutableList<Int> = ArrayList(elements)
-                nextElements.remove(e)
-                prevElements.add(e)
-
-                dfs(prevElements, nextElements)
-                prevElements.remove(e)
-            }
+    private fun backtrack(
+        results: MutableList<List<Int>>,
+        cur: MutableList<Int>,
+        nums: IntArray,
+        used: BooleanArray
+    ) {
+        if (cur.size == nums.size) {
+            results.add(cur.toList())
+            return
         }
 
-        val list = Arrays.stream(nums).boxed().collect(Collectors.toList())
-        dfs(mutableListOf(), list)
-        
-        return results
+        for (i in nums.indices) {
+            if (used[i]) continue
+
+            cur.add(nums[i])
+            used[i] = true
+
+            backtrack(results, cur, nums, used)
+
+            cur.removeAt(cur.size - 1)
+            used[i] = false
+        }
     }
 }
