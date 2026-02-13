@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/nmin11/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/nmin11/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0974-reorder-data-in-log-files](https://github.com/nmin11/LeetCode/tree/master/0974-reorder-data-in-log-files) |
+| [0981-time-based-key-value-store](https://github.com/nmin11/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1002-find-common-characters](https://github.com/nmin11/LeetCode/tree/master/1002-find-common-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nmin11/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3811-reverse-degree-of-a-string](https://github.com/nmin11/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/nmin11/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/nmin11/LeetCode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/nmin11/LeetCode/tree/master/0837-most-common-word) |
+| [0981-time-based-key-value-store](https://github.com/nmin11/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1002-find-common-characters](https://github.com/nmin11/LeetCode/tree/master/1002-find-common-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nmin11/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nmin11/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nmin11/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/nmin11/LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/nmin11/LeetCode/tree/master/0704-binary-search) |
+| [0981-time-based-key-value-store](https://github.com/nmin11/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1631-path-with-minimum-effort](https://github.com/nmin11/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/nmin11/LeetCode/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/nmin11/LeetCode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/nmin11/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [0981-time-based-key-value-store](https://github.com/nmin11/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Data Stream
 |  |
 | ------- |
