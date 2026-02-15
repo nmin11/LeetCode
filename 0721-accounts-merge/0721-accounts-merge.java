@@ -53,7 +53,7 @@ class Solution {
         String rootX = find(x);
         String rootY = find(y);
 
-        if (rootX != rootY) {
+        if (!rootX.equals(rootY)) {
             parent.put(rootY, rootX);
         }
     }
