@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/nmin11/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/nmin11/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/nmin11/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0721-accounts-merge](https://github.com/nmin11/LeetCode/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/nmin11/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/nmin11/LeetCode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/nmin11/LeetCode/tree/master/0837-most-common-word) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/nmin11/LeetCode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/nmin11/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/nmin11/LeetCode/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/nmin11/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nmin11/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/nmin11/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nmin11/LeetCode/tree/master/0739-daily-temperatures) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nmin11/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nmin11/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/nmin11/LeetCode/tree/master/0561-array-partition) |
+| [0721-accounts-merge](https://github.com/nmin11/LeetCode/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-reorder-data-in-log-files](https://github.com/nmin11/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/nmin11/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/nmin11/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/nmin11/LeetCode/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/nmin11/LeetCode/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/nmin11/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/nmin11/LeetCode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/nmin11/LeetCode/tree/master/0837-most-common-word) |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/nmin11/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nmin11/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/nmin11/LeetCode/tree/master/0685-redundant-connection-ii) |
+| [0721-accounts-merge](https://github.com/nmin11/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nmin11/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nmin11/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nmin11/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -516,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/nmin11/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nmin11/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/nmin11/LeetCode/tree/master/0685-redundant-connection-ii) |
+| [0721-accounts-merge](https://github.com/nmin11/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nmin11/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nmin11/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nmin11/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -617,4 +623,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nmin11/LeetCode/tree/master/0070-climbing-stairs) |
+## Union-Find
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/nmin11/LeetCode/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
