@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nmin11/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/nmin11/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/nmin11/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/nmin11/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/nmin11/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nmin11/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/nmin11/LeetCode/tree/master/0179-largest-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nmin11/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nmin11/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nmin11/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nmin11/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nmin11/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nmin11/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/nmin11/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nmin11/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/nmin11/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/nmin11/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/nmin11/LeetCode/tree/master/0463-island-perimeter) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nmin11/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/nmin11/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/nmin11/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nmin11/LeetCode/tree/master/0101-symmetric-tree) |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/nmin11/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/nmin11/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nmin11/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nmin11/LeetCode/tree/master/0079-word-search) |
 ## Graph
 |  |
 | ------- |
