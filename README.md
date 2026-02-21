@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/nmin11/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nmin11/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/nmin11/LeetCode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/nmin11/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/nmin11/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/nmin11/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/nmin11/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/nmin11/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nmin11/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nmin11/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/nmin11/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nmin11/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/nmin11/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nmin11/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nmin11/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nmin11/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/nmin11/LeetCode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/nmin11/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/nmin11/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nmin11/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nmin11/LeetCode/tree/master/0169-majority-element) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/nmin11/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nmin11/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nmin11/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/nmin11/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/nmin11/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/nmin11/LeetCode/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/nmin11/LeetCode/tree/master/0413-arithmetic-slices) |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nmin11/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/nmin11/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/nmin11/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 ## Math
 |  |
@@ -646,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nmin11/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/nmin11/LeetCode/tree/master/0139-word-break) |
 ## Union-Find
 |  |
 | ------- |
