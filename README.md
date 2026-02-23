@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/nmin11/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/nmin11/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nmin11/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/nmin11/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/nmin11/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/nmin11/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/nmin11/LeetCode/tree/master/0057-insert-interval) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nmin11/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/nmin11/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/nmin11/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/nmin11/LeetCode/tree/master/0735-asteroid-collision) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nmin11/LeetCode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/nmin11/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/nmin11/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/nmin11/LeetCode/tree/master/0200-number-of-islands) |
