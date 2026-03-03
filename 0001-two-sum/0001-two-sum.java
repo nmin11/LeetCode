@@ -6,6 +6,7 @@ class Solution {
             if (pairIdx.containsKey(target - nums[i])) {
                 return new int[]{i, pairIdx.get(target - nums[i])};
             }
+
             pairIdx.put(nums[i], i);
         }
 
