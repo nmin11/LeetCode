@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/nmin11/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nmin11/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/nmin11/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/nmin11/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/nmin11/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nmin11/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/nmin11/LeetCode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/nmin11/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/nmin11/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/nmin11/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
