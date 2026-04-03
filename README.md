@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/nmin11/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/nmin11/LeetCode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/nmin11/LeetCode/tree/master/0837-most-common-word) |
+| [0895-maximum-frequency-stack](https://github.com/nmin11/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/nmin11/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1002-find-common-characters](https://github.com/nmin11/LeetCode/tree/master/1002-find-common-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nmin11/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/nmin11/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/nmin11/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/nmin11/LeetCode/tree/master/0886-score-of-parentheses) |
+| [0895-maximum-frequency-stack](https://github.com/nmin11/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/nmin11/LeetCode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/nmin11/LeetCode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/nmin11/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/nmin11/LeetCode/tree/master/0860-design-circular-queue) |
+| [0895-maximum-frequency-stack](https://github.com/nmin11/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/nmin11/LeetCode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/nmin11/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/nmin11/LeetCode/tree/master/0981-time-based-key-value-store) |
@@ -759,4 +762,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nmin11/LeetCode/tree/master/0146-lru-cache) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/nmin11/LeetCode/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
