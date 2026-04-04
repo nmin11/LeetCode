@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/nmin11/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nmin11/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/nmin11/LeetCode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/nmin11/LeetCode/tree/master/0338-counting-bits) |
 | [0413-arithmetic-slices](https://github.com/nmin11/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/nmin11/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/nmin11/LeetCode/tree/master/0542-01-matrix) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/nmin11/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/nmin11/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nmin11/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/nmin11/LeetCode/tree/master/0338-counting-bits) |
 ## Linked List
 |  |
 | ------- |
