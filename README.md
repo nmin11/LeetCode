@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/nmin11/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nmin11/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/nmin11/LeetCode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/nmin11/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/nmin11/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/nmin11/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/nmin11/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/nmin11/LeetCode/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/nmin11/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/nmin11/LeetCode/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/nmin11/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/nmin11/LeetCode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/nmin11/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/nmin11/LeetCode/tree/master/0704-binary-search) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nmin11/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/nmin11/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/nmin11/LeetCode/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/nmin11/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/nmin11/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/nmin11/LeetCode/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nmin11/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nmin11/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nmin11/LeetCode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/nmin11/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -436,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/nmin11/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/nmin11/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nmin11/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/nmin11/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/nmin11/LeetCode/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/nmin11/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nmin11/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -548,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/nmin11/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nmin11/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/nmin11/LeetCode/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/nmin11/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/nmin11/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/nmin11/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nmin11/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
