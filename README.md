@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/nmin11/LeetCode/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/nmin11/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nmin11/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0528-random-pick-with-weight](https://github.com/nmin11/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0542-01-matrix](https://github.com/nmin11/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/nmin11/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/nmin11/LeetCode/tree/master/0561-array-partition) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nmin11/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/nmin11/LeetCode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/nmin11/LeetCode/tree/master/0268-missing-number) |
+| [0528-random-pick-with-weight](https://github.com/nmin11/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0973-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/nmin11/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## String Matching
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nmin11/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0528-random-pick-with-weight](https://github.com/nmin11/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/nmin11/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/nmin11/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/nmin11/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nmin11/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0528-random-pick-with-weight](https://github.com/nmin11/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0658-find-k-closest-elements](https://github.com/nmin11/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/nmin11/LeetCode/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/nmin11/LeetCode/tree/master/0981-time-based-key-value-store) |
@@ -799,4 +803,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/nmin11/LeetCode/tree/master/0895-maximum-frequency-stack) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/nmin11/LeetCode/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
