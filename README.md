@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nmin11/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nmin11/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/nmin11/LeetCode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/nmin11/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/nmin11/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/nmin11/LeetCode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/nmin11/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nmin11/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nmin11/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/nmin11/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/nmin11/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/nmin11/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/nmin11/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/nmin11/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nmin11/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/nmin11/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
