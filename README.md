@@ -861,4 +861,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nmin11/LeetCode/tree/master/0075-sort-colors) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/nmin11/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
